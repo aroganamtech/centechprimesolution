@@ -1,0 +1,145 @@
+{
+  "_readme": "Every slot is searched on Pexels (free commercial licence). Use {\"pexelsId\": N} to pin an exact asset, or {\"query\": \"...\"} to auto-pick the best landscape, high-resolution, keyword-matching result. Optional \"fallbackQuery\". Run: npm run media (add -- --force to re-pick everything). Slots already downloaded are reused.",
+  "videos": {
+    "hero": {
+      "pexelsId": 38000679,
+      "fallbackQuery": "modern data center servers",
+      "use": "Home hero slide 1 - cloud & infrastructure"
+    },
+    "services": {
+      "query": "software developer multiple monitors coding",
+      "use": "Home 'Our approach' band - software engineering"
+    },
+    "research": {
+      "query": "scientific research laboratory",
+      "use": "Home 'CenTech Advantage' band - AI & research"
+    },
+    "enabler": {
+      "query": "modern glass architecture business district",
+      "use": "About 'enabler, not a barrier' full-screen section"
+    },
+    "cta": {
+      "pexelsId": 1085656,
+      "fallbackQuery": "fiber optic network cables blue",
+      "use": "Home closing call-to-action - network"
+    },
+    "hero-2": {
+      "query": "software developers working together office",
+      "use": "Home hero slide 2 - software engineering"
+    },
+    "hero-3": {
+      "query": "artificial intelligence robot technology",
+      "use": "Home hero slide 3 - AI & automation"
+    },
+    "hero-4": {
+      "query": "business professionals modern office",
+      "use": "Home hero slide 4 - enterprise & people"
+    }
+  },
+  "photos": {
+    "intro": {
+      "query": "software engineering team collaborating",
+      "use": "Home - What we do"
+    },
+    "about": {
+      "query": "technology professionals modern office meeting",
+      "use": "About - story section"
+    },
+    "solutions": {
+      "query": "enterprise technology digital transformation",
+      "use": "Solutions - lead image"
+    },
+    "research": {
+      "query": "artificial intelligence research laboratory",
+      "use": "AI / research imagery"
+    },
+    "banner-about": {
+      "query": "technology innovation team office",
+      "use": "About banner"
+    },
+    "banner-services": {
+      "query": "modern data center servers",
+      "use": "Services banner"
+    },
+    "banner-solutions": {
+      "query": "digital transformation enterprise technology",
+      "use": "Solutions banner"
+    },
+    "banner-blog": {
+      "query": "technology writing laptop notebook desk",
+      "use": "Blog banner"
+    },
+    "banner-contact": {
+      "query": "modern glass office architecture",
+      "use": "Contact banner / alongside form"
+    },
+    "banner": {
+      "query": "technology innovation modern architecture",
+      "use": "Default inner-page banner, 404"
+    },
+    "it-consultancy-services": {
+      "query": "IT consultants business technology meeting",
+      "use": "Service"
+    },
+    "non-it-consultancy-services": {
+      "query": "business strategy consulting workshop",
+      "use": "Service"
+    },
+    "cloud-migration-and-management-services": {
+      "query": "cloud computing infrastructure",
+      "use": "Service"
+    },
+    "software-development-and-integration-services": {
+      "query": "software developer multiple monitors",
+      "use": "Service"
+    },
+    "data-analytics-and-business-intelligence": {
+      "query": "data analytics dashboard business intelligence",
+      "use": "Service"
+    },
+    "cybersecurity-services": {
+      "query": "cybersecurity technology",
+      "use": "Service"
+    },
+    "cloud-native-application-development": {
+      "query": "software engineering team coding",
+      "use": "Service"
+    },
+    "it-infrastructure-and-support-services": {
+      "query": "server room network infrastructure",
+      "use": "Service"
+    },
+    "cloud-cost-management-and-optimization": {
+      "query": "cloud cost analytics finance laptop",
+      "use": "Service"
+    },
+    "devops-and-automation-consulting": {
+      "query": "devops engineer code terminal automation",
+      "use": "Service"
+    },
+    "industry-integrated-ai-digital-transformation-training-program": {
+      "query": "artificial intelligence engineers",
+      "use": "Service"
+    },
+    "project-consulting": {
+      "query": "consulting team project planning",
+      "use": "Case study - Consulting Project"
+    },
+    "project-product": {
+      "query": "product design team prototyping",
+      "use": "Case study - Product Design"
+    },
+    "post-cloud": {
+      "query": "cloud computing data center",
+      "use": "Blog - Future of Cloud Computing"
+    },
+    "post-analytics": {
+      "query": "data analytics business decision making",
+      "use": "Blog - Data Analytics"
+    },
+    "post-security": {
+      "query": "cybersecurity strategy protection",
+      "use": "Blog - Cybersecurity Strategies"
+    }
+  }
+}

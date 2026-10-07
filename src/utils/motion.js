@@ -1,0 +1,11 @@
+export const EASE = [0.22, 1, 0.36, 1];
+export const fadeIn = { hidden: { opacity: 0 }, show: { opacity: 1, transition: { duration: 0.7, ease: EASE } } };
+export const fadeUp = { hidden: { opacity: 0, y: 28 }, show: { opacity: 1, y: 0, transition: { duration: 0.8, ease: EASE } } };
+export const slideLeft = { hidden: { opacity: 0, x: 48 }, show: { opacity: 1, x: 0, transition: { duration: 0.8, ease: EASE } } };
+export const slideRight = { hidden: { opacity: 0, x: -48 }, show: { opacity: 1, x: 0, transition: { duration: 0.8, ease: EASE } } };
+export const scaleIn = { hidden: { opacity: 0, scale: 0.94 }, show: { opacity: 1, scale: 1, transition: { duration: 0.8, ease: EASE } } };
+export const staggerContainer = (stagger = 0.09, delay = 0) => ({ hidden: {}, show: { transition: { staggerChildren: stagger, delayChildren: delay } } });
+export const textReveal = { hidden: { y: '110%' }, show: { y: 0, transition: { duration: 0.9, ease: EASE } } };
+export const imageReveal = { hidden: { clipPath: 'inset(0 0 100% 0)' }, show: { clipPath: 'inset(0 0 0% 0)', transition: { duration: 1.1, ease: EASE } } };
+export const pageVariants = { initial: { opacity: 0, y: 12 }, animate: { opacity: 1, y: 0, transition: { duration: 0.5, ease: EASE } } };
+export const viewport = { once: true, margin: '0px 0px -12% 0px' };

@@ -1,0 +1,329 @@
+{
+ "_readme": "Hand-picked Pexels assets (direct file links + credits). npm run media downloads these with NO API key. Replace an entry or delete it to fall back to the manifest query / API.",
+ "videos": {
+  "hero": {
+   "provider": "Pexels",
+   "id": 38000679,
+   "page": "https://www.pexels.com/video/modern-data-center-with-sustainable-architecture-38000679/",
+   "creator": "Jakub Zerdzicki",
+   "creatorUrl": "https://www.pexels.com/@jakubzerdzicki/",
+   "hd": "https://videos.pexels.com/video-files/38000679/16126694_1920_1080_25fps.mp4",
+   "sd": "https://videos.pexels.com/video-files/38000679/16126692_960_540_25fps.mp4",
+   "poster": "https://images.pexels.com/videos/38000679/cloud-cloud-computing-communication-system-complex-38000679.jpeg",
+   "desc": "Aerial view of a high-tech data center"
+  },
+  "services": {
+   "provider": "Pexels",
+   "id": 33187885,
+   "page": "https://www.pexels.com/video/modern-workspace-with-coding-on-multiple-displays-33187885/",
+   "creator": "Jakub Zerdzicki",
+   "creatorUrl": "https://www.pexels.com/@jakubzerdzicki/",
+   "hd": "https://videos.pexels.com/video-files/33187885/14143408_1920_1080_25fps.mp4",
+   "sd": "https://videos.pexels.com/video-files/33187885/14143406_960_540_25fps.mp4",
+   "poster": "https://images.pexels.com/videos/33187885/business-code-coding-computer-33187885.jpeg",
+   "desc": "Modern workspace with coding on multiple monitors"
+  },
+  "research": {
+   "provider": "Pexels",
+   "id": 8381327,
+   "page": "https://www.pexels.com/video/automated-analysers-in-a-laboratory-8381327/",
+   "creator": "Pavel Danilyuk",
+   "creatorUrl": "https://www.pexels.com/@pavel-danilyuk/",
+   "hd": "https://videos.pexels.com/video-files/8381327/8381327-hd_1920_1080_25fps.mp4",
+   "sd": "https://videos.pexels.com/video-files/8381327/8381327-sd_960_540_25fps.mp4",
+   "poster": "https://images.pexels.com/videos/8381327/pexels-photo-8381327.jpeg",
+   "desc": "High-tech automated laboratory"
+  },
+  "enabler": {
+   "provider": "Pexels",
+   "id": 4992985,
+   "page": "https://www.pexels.com/video/drone-footage-of-a-building-4992985/",
+   "creator": "Tom Fisk",
+   "creatorUrl": "https://www.pexels.com/@tomfisk/",
+   "hd": "https://videos.pexels.com/video-files/4992985/4992985-hd_1920_1080_30fps.mp4",
+   "sd": "https://videos.pexels.com/video-files/4992985/4992985-sd_960_540_30fps.mp4",
+   "poster": "https://images.pexels.com/videos/4992985/abstraction-aerial-architecture-art-4992985.jpeg",
+   "desc": "Aerial drone footage of a modern glass skyscraper"
+  },
+  "cta": {
+   "provider": "Pexels",
+   "id": 1085656,
+   "page": "https://www.pexels.com/video/blue-colored-cables-1085656/",
+   "creator": "Dima Krivoy",
+   "creatorUrl": "https://www.pexels.com/@dima-krivoy-413413/",
+   "hd": "https://videos.pexels.com/video-files/1085656/1085656-hd_1920_1080_25fps.mp4",
+   "sd": "https://videos.pexels.com/video-files/1085656/1085656-sd_960_540_25fps.mp4",
+   "poster": "https://images.pexels.com/videos/1085656/free-video-1085656.jpg",
+   "desc": "Network cables with glowing LEDs in a server room"
+  },
+  "hero-2": {
+   "provider": "Pexels",
+   "id": 8632602,
+   "page": "https://www.pexels.com/video/people-programming-on-a-computer-8632602/",
+   "creator": "Kampus Production",
+   "creatorUrl": "https://www.pexels.com/@kampus/",
+   "hd": "https://videos.pexels.com/video-files/8632602/8632602-hd_1920_1080_25fps.mp4",
+   "sd": "https://videos.pexels.com/video-files/8632602/8632602-sd_960_540_25fps.mp4",
+   "poster": "https://images.pexels.com/videos/8632602/pexels-photo-8632602.jpeg",
+   "desc": "Team of professionals discussing code on a screen in an office"
+  },
+  "hero-3": {
+   "provider": "Pexels",
+   "id": 8566657,
+   "page": "https://www.pexels.com/video/a-robot-with-a-digital-screen-face-8566657/",
+   "creator": "Kindel Media",
+   "creatorUrl": "https://www.pexels.com/@kindelmedia/",
+   "hd": "https://videos.pexels.com/video-files/8566657/8566657-hd_1920_1080_30fps.mp4",
+   "sd": "https://videos.pexels.com/video-files/8566657/8566657-sd_960_540_30fps.mp4",
+   "poster": "https://images.pexels.com/videos/8566657/ai-android-art-business-8566657.jpeg",
+   "desc": "Futuristic robot against a bokeh backdrop (AI)"
+  },
+  "hero-4": {
+   "provider": "Pexels",
+   "id": 3044912,
+   "page": "https://www.pexels.com/video/a-woman-welcomes-and-greet-another-woman-by-extending-her-hand-for-a-handshake-3044912/",
+   "creator": "fauxels",
+   "creatorUrl": "https://www.pexels.com/@fauxels/",
+   "hd": "https://videos.pexels.com/video-files/3044912/3044912-hd_1920_1080_24fps.mp4",
+   "sd": "https://videos.pexels.com/video-files/3044912/3044912-sd_960_540_24fps.mp4",
+   "poster": "https://images.pexels.com/videos/3044912/free-video-3044912.jpg",
+   "desc": "Two professionals greeting in a bright office lobby"
+  }
+ },
+ "photos": {
+  "intro": {
+   "provider": "Pexels",
+   "id": 32866724,
+   "page": "https://www.pexels.com/photo/collaborative-teamwork-in-a-modern-office-setting-32866724/",
+   "creator": "Rashed Hossain",
+   "creatorUrl": "https://www.pexels.com/@rashed-hossain-1520582336/",
+   "url": "https://images.pexels.com/photos/32866724/pexels-photo-32866724.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Young professionals collaborate around a laptop in a modern office"
+  },
+  "about": {
+   "provider": "Pexels",
+   "id": 39205102,
+   "page": "https://www.pexels.com/photo/creative-team-brainstorming-in-modern-office-39205102/",
+   "creator": "Vitaly Gariev",
+   "creatorUrl": "https://www.pexels.com/@silverkblack/",
+   "url": "https://images.pexels.com/photos/39205102/pexels-photo-39205102.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Young professionals collaborating in a creative office space"
+  },
+  "solutions": {
+   "provider": "Pexels",
+   "id": 1181335,
+   "page": "https://www.pexels.com/photo/software-engineer-looking-at-an-ipad-1181335/",
+   "creator": "Christina Morillo",
+   "creatorUrl": "https://www.pexels.com/@divinetechygirl/",
+   "url": "https://images.pexels.com/photos/1181335/pexels-photo-1181335.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "IT professional examining data servers in a modern data center"
+  },
+  "research": {
+   "provider": "Pexels",
+   "id": 3913031,
+   "page": "https://www.pexels.com/photo/engineers-developing-robotic-arm-3913031/",
+   "creator": "ThisIsEngineering",
+   "creatorUrl": "https://www.pexels.com/@thisisengineering/",
+   "url": "https://images.pexels.com/photos/3913031/pexels-photo-3913031.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Engineers testing a futuristic robotic prototype in a modern lab"
+  },
+  "banner-about": {
+   "provider": "Pexels",
+   "id": 39190498,
+   "page": "https://www.pexels.com/photo/diverse-team-analyzing-graph-in-modern-office-39190498/",
+   "creator": "Vitaly Gariev",
+   "creatorUrl": "https://www.pexels.com/@silverkblack/",
+   "url": "https://images.pexels.com/photos/39190498/pexels-photo-39190498.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "A diverse team discusses analytics on a monitor in an office"
+  },
+  "banner-services": {
+   "provider": "Pexels",
+   "id": 37730211,
+   "page": "https://www.pexels.com/photo/close-up-of-a-blue-server-rack-in-datacenter-37730211/",
+   "creator": "panumas nikhomkhai",
+   "creatorUrl": "https://www.pexels.com/@cookiecutter/",
+   "url": "https://images.pexels.com/photos/37730211/pexels-photo-37730211.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Server rack with blue lighting in a data center"
+  },
+  "banner-solutions": {
+   "provider": "Pexels",
+   "id": 36980434,
+   "page": "https://www.pexels.com/photo/futuristic-modern-architecture-with-bold-lines-36980434/",
+   "creator": "tis O",
+   "creatorUrl": "https://www.pexels.com/@tis-o-2046628578/",
+   "url": "https://images.pexels.com/photos/36980434/pexels-photo-36980434.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Modern building with bold futuristic architecture"
+  },
+  "banner-blog": {
+   "provider": "Pexels",
+   "id": 34601,
+   "page": "https://www.pexels.com/photo/coffee-notebook-writing-computer-34601/",
+   "creator": "Negative Space",
+   "creatorUrl": "https://www.pexels.com/@negativespace/",
+   "url": "https://images.pexels.com/photos/34601/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Notebook and pen on a wooden desk beside a laptop"
+  },
+  "banner-contact": {
+   "provider": "Pexels",
+   "id": 37320179,
+   "page": "https://www.pexels.com/photo/modern-glass-skyscraper-against-blue-sky-37320179/",
+   "creator": "wal_ 172619",
+   "creatorUrl": "https://www.pexels.com/@wal_-172619-2156618639/",
+   "url": "https://images.pexels.com/photos/37320179/pexels-photo-37320179.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Glass skyscraper reflecting the blue sky"
+  },
+  "banner": {
+   "provider": "Pexels",
+   "id": 38247895,
+   "page": "https://www.pexels.com/photo/curved-glass-facade-reflecting-urban-scene-38247895/",
+   "creator": "Magda Ehlers",
+   "creatorUrl": "https://www.pexels.com/@magda-ehlers-pexels/",
+   "url": "https://images.pexels.com/photos/38247895/pexels-photo-38247895.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Modern curved glass facade reflecting an urban scene"
+  },
+  "it-consultancy-services": {
+   "provider": "Pexels",
+   "id": 36765718,
+   "page": "https://www.pexels.com/photo/business-meeting-in-modern-office-lounge-36765718/",
+   "creator": "Vitaly Gariev",
+   "creatorUrl": "https://www.pexels.com/@silverkblack/",
+   "url": "https://images.pexels.com/photos/36765718/pexels-photo-36765718.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Professionals discussing business strategy in an office"
+  },
+  "non-it-consultancy-services": {
+   "provider": "Pexels",
+   "id": 6285120,
+   "page": "https://www.pexels.com/photo/businessman-presenting-on-a-flipchart-in-an-office-6285120/",
+   "creator": "Gustavo Fring",
+   "creatorUrl": "https://www.pexels.com/@gustavo-fring/",
+   "url": "https://images.pexels.com/photos/6285120/pexels-photo-6285120.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Businessman presenting on a flip chart"
+  },
+  "cloud-migration-and-management-services": {
+   "provider": "Pexels",
+   "id": 37605910,
+   "page": "https://www.pexels.com/photo/server-rack-in-modern-data-center-37605910/",
+   "creator": "panumas nikhomkhai",
+   "creatorUrl": "https://www.pexels.com/@cookiecutter/",
+   "url": "https://images.pexels.com/photos/37605910/pexels-photo-37605910.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Server equipment in a modern data center"
+  },
+  "software-development-and-integration-services": {
+   "provider": "Pexels",
+   "id": 4974915,
+   "page": "https://www.pexels.com/photo/man-sitting-in-front-of-three-computers-4974915/",
+   "creator": "olia danilevich",
+   "creatorUrl": "https://www.pexels.com/@olia-danilevich/",
+   "url": "https://images.pexels.com/photos/4974915/pexels-photo-4974915.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Developer working with two laptops and a desktop monitor"
+  },
+  "data-analytics-and-business-intelligence": {
+   "provider": "Pexels",
+   "id": 38808473,
+   "page": "https://www.pexels.com/photo/dynamic-financial-data-visualization-and-analysis-38808473/",
+   "creator": "Rafael Minguet Delgado",
+   "creatorUrl": "https://www.pexels.com/@thales13/",
+   "url": "https://images.pexels.com/photos/38808473/pexels-photo-38808473.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Colorful data visualization with financial charts"
+  },
+  "cybersecurity-services": {
+   "provider": "Pexels",
+   "id": 37709121,
+   "page": "https://www.pexels.com/photo/futuristic-tech-interface-on-a-laptop-keypad-37709121/",
+   "creator": "Rafael Minguet Delgado",
+   "creatorUrl": "https://www.pexels.com/@thales13/",
+   "url": "https://images.pexels.com/photos/37709121/pexels-photo-37709121.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Glowing laptop keypad with a digital interface"
+  },
+  "cloud-native-application-development": {
+   "provider": "Pexels",
+   "id": 36706460,
+   "page": "https://www.pexels.com/photo/developer-working-on-code-in-a-modern-office-36706460/",
+   "creator": "Zayed Hossain",
+   "creatorUrl": "https://www.pexels.com/@zayed-hossain-52728970/",
+   "url": "https://images.pexels.com/photos/36706460/pexels-photo-36706460.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Developer coding on dual monitors in a modern office"
+  },
+  "it-infrastructure-and-support-services": {
+   "provider": "Pexels",
+   "id": 6466143,
+   "page": "https://www.pexels.com/photo/close-up-photo-of-ethernet-cables-on-network-switch-6466143/",
+   "creator": "Sergei Starostin",
+   "creatorUrl": "https://www.pexels.com/@sejio402/",
+   "url": "https://images.pexels.com/photos/6466143/pexels-photo-6466143.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Ethernet cables on a network switch in a data center"
+  },
+  "cloud-cost-management-and-optimization": {
+   "provider": "Pexels",
+   "id": 38933571,
+   "page": "https://www.pexels.com/photo/vibrant-financial-data-visualization-chart-38933571/",
+   "creator": "Rafael Minguet Delgado",
+   "creatorUrl": "https://www.pexels.com/@thales13/",
+   "url": "https://images.pexels.com/photos/38933571/pexels-photo-38933571.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Bar chart of financial data on a dark background"
+  },
+  "devops-and-automation-consulting": {
+   "provider": "Pexels",
+   "id": 10845119,
+   "page": "https://www.pexels.com/photo/close-up-of-code-on-a-screen-10845119/",
+   "creator": "Abdul Kayum",
+   "creatorUrl": "https://www.pexels.com/@abdulkayum97/",
+   "url": "https://images.pexels.com/photos/10845119/pexels-photo-10845119.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Colorful source code on a monitor"
+  },
+  "industry-integrated-ai-digital-transformation-training-program": {
+   "provider": "Pexels",
+   "id": 3861951,
+   "page": "https://www.pexels.com/photo/female-software-engineer-coding-on-computer-3861951/",
+   "creator": "ThisIsEngineering",
+   "creatorUrl": "https://www.pexels.com/@thisisengineering/",
+   "url": "https://images.pexels.com/photos/3861951/pexels-photo-3861951.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Engineer working on code in a contemporary office"
+  },
+  "project-consulting": {
+   "provider": "Pexels",
+   "id": 36765732,
+   "page": "https://www.pexels.com/photo/professional-business-meeting-in-modern-office-36765732/",
+   "creator": "Vitaly Gariev",
+   "creatorUrl": "https://www.pexels.com/@silverkblack/",
+   "url": "https://images.pexels.com/photos/36765732/pexels-photo-36765732.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Professionals in a business meeting in a modern office"
+  },
+  "project-product": {
+   "provider": "Pexels",
+   "id": 7181112,
+   "page": "https://www.pexels.com/photo/colleagues-brainstorming-with-a-whiteboard-7181112/",
+   "creator": "Thirdman",
+   "creatorUrl": "https://www.pexels.com/@thirdman/",
+   "url": "https://images.pexels.com/photos/7181112/pexels-photo-7181112.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Colleagues designing a product prototype on a whiteboard"
+  },
+  "post-cloud": {
+   "provider": "Pexels",
+   "id": 4508751,
+   "page": "https://www.pexels.com/photo/server-racks-on-data-center-4508751/",
+   "creator": "Brett Sayles",
+   "creatorUrl": "https://www.pexels.com/@brett-sayles/",
+   "url": "https://images.pexels.com/photos/4508751/pexels-photo-4508751.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Data center corridor with server racks"
+  },
+  "post-analytics": {
+   "provider": "Pexels",
+   "id": 36950633,
+   "page": "https://www.pexels.com/photo/analyst-using-tablet-for-data-visualization-36950633/",
+   "creator": "Jakub Zerdzicki",
+   "creatorUrl": "https://www.pexels.com/@jakubzerdzicki/",
+   "url": "https://images.pexels.com/photos/36950633/pexels-photo-36950633.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Analyst reviewing a data chart on a tablet"
+  },
+  "post-security": {
+   "provider": "Pexels",
+   "id": 38482451,
+   "page": "https://www.pexels.com/photo/wooden-blocks-spelling-cyber-security-concept-38482451/",
+   "creator": "Ann H",
+   "creatorUrl": "https://www.pexels.com/@ann-h-45017/",
+   "url": "https://images.pexels.com/photos/38482451/pexels-photo-38482451.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "desc": "Wooden blocks spelling CYBER SECURITY"
+  }
+ }
+}

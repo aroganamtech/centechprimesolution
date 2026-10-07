@@ -1,0 +1,626 @@
+{
+  "photos": {
+    "intro": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/intro.jpg"
+    },
+    "about": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/about.jpg"
+    },
+    "solutions": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/solutions.jpg"
+    },
+    "research": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/research.jpg"
+    },
+    "banner-about": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/banner-about.jpg"
+    },
+    "banner-services": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/banner-services.jpg"
+    },
+    "banner-solutions": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/banner-solutions.jpg"
+    },
+    "banner-blog": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/banner-blog.jpg"
+    },
+    "banner-contact": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/banner-contact.jpg"
+    },
+    "banner": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/banner.jpg"
+    },
+    "it-consultancy-services": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/it-consultancy-services.jpg"
+    },
+    "non-it-consultancy-services": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/non-it-consultancy-services.jpg"
+    },
+    "cloud-migration-and-management-services": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/cloud-migration-and-management-services.jpg"
+    },
+    "software-development-and-integration-services": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/software-development-and-integration-services.jpg"
+    },
+    "data-analytics-and-business-intelligence": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/data-analytics-and-business-intelligence.jpg"
+    },
+    "cybersecurity-services": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/cybersecurity-services.jpg"
+    },
+    "cloud-native-application-development": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/cloud-native-application-development.jpg"
+    },
+    "it-infrastructure-and-support-services": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/it-infrastructure-and-support-services.jpg"
+    },
+    "cloud-cost-management-and-optimization": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/cloud-cost-management-and-optimization.jpg"
+    },
+    "devops-and-automation-consulting": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/devops-and-automation-consulting.jpg"
+    },
+    "industry-integrated-ai-digital-transformation-training-program": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/industry-integrated-ai-digital-transformation-training-program.jpg"
+    },
+    "project-consulting": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/project-consulting.jpg"
+    },
+    "project-product": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/project-product.jpg"
+    },
+    "post-cloud": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/post-cloud.jpg"
+    },
+    "post-analytics": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/post-analytics.jpg"
+    },
+    "post-security": {
+      "width": 1600,
+      "alt": "",
+      "sources": [],
+      "src": "/media/photos/post-security.jpg"
+    }
+  },
+  "videos": {
+    "hero": {
+      "video": {
+        "mp4": "/media/videos/hero.mp4",
+        "mobileMp4": "/media/videos/hero-mobile.mp4"
+      },
+      "poster": "/media/videos/hero-poster.jpg",
+      "posterMobile": "/media/videos/hero-poster.jpg"
+    },
+    "services": {
+      "video": {
+        "mp4": "/media/videos/services.mp4",
+        "mobileMp4": "/media/videos/services.mp4"
+      },
+      "poster": "/media/videos/services-poster.jpg",
+      "posterMobile": "/media/videos/services-poster.jpg"
+    },
+    "research": {
+      "video": {
+        "mp4": "/media/videos/research.mp4",
+        "mobileMp4": "/media/videos/research.mp4"
+      },
+      "poster": "/media/videos/research-poster.jpg",
+      "posterMobile": "/media/videos/research-poster.jpg"
+    },
+    "enabler": {
+      "video": {
+        "mp4": "/media/videos/enabler.mp4",
+        "mobileMp4": "/media/videos/enabler.mp4"
+      },
+      "poster": "/media/videos/enabler-poster.jpg",
+      "posterMobile": "/media/videos/enabler-poster.jpg"
+    },
+    "cta": {
+      "video": {
+        "mp4": "/media/videos/cta.mp4",
+        "mobileMp4": "/media/videos/cta.mp4"
+      },
+      "poster": "/media/videos/cta-poster.jpg",
+      "posterMobile": "/media/videos/cta-poster.jpg"
+    },
+    "hero-2": {
+      "video": {
+        "mp4": "/media/videos/hero-2.mp4",
+        "mobileMp4": "/media/videos/hero-2.mp4"
+      },
+      "poster": "/media/videos/hero-2-poster.jpg",
+      "posterMobile": "/media/videos/hero-2-poster.jpg"
+    },
+    "hero-3": {
+      "video": {
+        "mp4": "/media/videos/hero-3.mp4",
+        "mobileMp4": "/media/videos/hero-3.mp4"
+      },
+      "poster": "/media/videos/hero-3-poster.jpg",
+      "posterMobile": "/media/videos/hero-3-poster.jpg"
+    },
+    "hero-4": {
+      "video": {
+        "mp4": "/media/videos/hero-4.mp4",
+        "mobileMp4": "/media/videos/hero-4.mp4"
+      },
+      "poster": "/media/videos/hero-4-poster.jpg",
+      "posterMobile": "/media/videos/hero-4-poster.jpg"
+    }
+  },
+  "meta": {
+    "credits": {
+      "hero": {
+        "provider": "Pexels",
+        "id": 38000679,
+        "page": "https://www.pexels.com/video/modern-data-center-with-sustainable-architecture-38000679/",
+        "creator": "Jakub Zerdzicki",
+        "creatorUrl": "https://www.pexels.com/@jakubzerdzicki/",
+        "query": "hand-picked: Aerial view of a high-tech data center",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "video",
+        "type": "video",
+        "files": "/media/videos/hero.mp4, /media/videos/hero-mobile.mp4, /media/videos/hero-poster.jpg"
+      },
+      "services": {
+        "provider": "Pexels",
+        "id": 33187885,
+        "page": "https://www.pexels.com/video/modern-workspace-with-coding-on-multiple-displays-33187885/",
+        "creator": "Jakub Zerdzicki",
+        "creatorUrl": "https://www.pexels.com/@jakubzerdzicki/",
+        "query": "hand-picked: Modern workspace with coding on multiple monitors",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "video",
+        "type": "video",
+        "files": "/media/videos/services.mp4, /media/videos/services.mp4, /media/videos/services-poster.jpg"
+      },
+      "research": {
+        "provider": "Pexels",
+        "id": 3913031,
+        "page": "https://www.pexels.com/photo/engineers-developing-robotic-arm-3913031/",
+        "creator": "ThisIsEngineering",
+        "creatorUrl": "https://www.pexels.com/@thisisengineering/",
+        "query": "hand-picked: Engineers testing a futuristic robotic prototype in a modern lab",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/research.jpg"
+      },
+      "enabler": {
+        "provider": "Pexels",
+        "id": 4992985,
+        "page": "https://www.pexels.com/video/drone-footage-of-a-building-4992985/",
+        "creator": "Tom Fisk",
+        "creatorUrl": "https://www.pexels.com/@tomfisk/",
+        "query": "hand-picked: Aerial drone footage of a modern glass skyscraper",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "video",
+        "type": "video",
+        "files": "/media/videos/enabler.mp4, /media/videos/enabler.mp4, /media/videos/enabler-poster.jpg"
+      },
+      "cta": {
+        "provider": "Pexels",
+        "id": 1085656,
+        "page": "https://www.pexels.com/video/blue-colored-cables-1085656/",
+        "creator": "Dima Krivoy",
+        "creatorUrl": "https://www.pexels.com/@dima-krivoy-413413/",
+        "query": "hand-picked: Network cables with glowing LEDs in a server room",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "video",
+        "type": "video",
+        "files": "/media/videos/cta.mp4, /media/videos/cta.mp4, /media/videos/cta-poster.jpg"
+      },
+      "intro": {
+        "provider": "Pexels",
+        "id": 32866724,
+        "page": "https://www.pexels.com/photo/collaborative-teamwork-in-a-modern-office-setting-32866724/",
+        "creator": "Rashed Hossain",
+        "creatorUrl": "https://www.pexels.com/@rashed-hossain-1520582336/",
+        "query": "hand-picked: Young professionals collaborate around a laptop in a modern office",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/intro.jpg"
+      },
+      "about": {
+        "provider": "Pexels",
+        "id": 39205102,
+        "page": "https://www.pexels.com/photo/creative-team-brainstorming-in-modern-office-39205102/",
+        "creator": "Vitaly Gariev",
+        "creatorUrl": "https://www.pexels.com/@silverkblack/",
+        "query": "hand-picked: Young professionals collaborating in a creative office space",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/about.jpg"
+      },
+      "solutions": {
+        "provider": "Pexels",
+        "id": 1181335,
+        "page": "https://www.pexels.com/photo/software-engineer-looking-at-an-ipad-1181335/",
+        "creator": "Christina Morillo",
+        "creatorUrl": "https://www.pexels.com/@divinetechygirl/",
+        "query": "hand-picked: IT professional examining data servers in a modern data center",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/solutions.jpg"
+      },
+      "banner-about": {
+        "provider": "Pexels",
+        "id": 39190498,
+        "page": "https://www.pexels.com/photo/diverse-team-analyzing-graph-in-modern-office-39190498/",
+        "creator": "Vitaly Gariev",
+        "creatorUrl": "https://www.pexels.com/@silverkblack/",
+        "query": "hand-picked: A diverse team discusses analytics on a monitor in an office",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/banner-about.jpg"
+      },
+      "banner-services": {
+        "provider": "Pexels",
+        "id": 37730211,
+        "page": "https://www.pexels.com/photo/close-up-of-a-blue-server-rack-in-datacenter-37730211/",
+        "creator": "panumas nikhomkhai",
+        "creatorUrl": "https://www.pexels.com/@cookiecutter/",
+        "query": "hand-picked: Server rack with blue lighting in a data center",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/banner-services.jpg"
+      },
+      "banner-solutions": {
+        "provider": "Pexels",
+        "id": 36980434,
+        "page": "https://www.pexels.com/photo/futuristic-modern-architecture-with-bold-lines-36980434/",
+        "creator": "tis O",
+        "creatorUrl": "https://www.pexels.com/@tis-o-2046628578/",
+        "query": "hand-picked: Modern building with bold futuristic architecture",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/banner-solutions.jpg"
+      },
+      "banner-blog": {
+        "provider": "Pexels",
+        "id": 34601,
+        "page": "https://www.pexels.com/photo/coffee-notebook-writing-computer-34601/",
+        "creator": "Negative Space",
+        "creatorUrl": "https://www.pexels.com/@negativespace/",
+        "query": "hand-picked: Notebook and pen on a wooden desk beside a laptop",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/banner-blog.jpg"
+      },
+      "banner-contact": {
+        "provider": "Pexels",
+        "id": 37320179,
+        "page": "https://www.pexels.com/photo/modern-glass-skyscraper-against-blue-sky-37320179/",
+        "creator": "wal_ 172619",
+        "creatorUrl": "https://www.pexels.com/@wal_-172619-2156618639/",
+        "query": "hand-picked: Glass skyscraper reflecting the blue sky",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/banner-contact.jpg"
+      },
+      "banner": {
+        "provider": "Pexels",
+        "id": 38247895,
+        "page": "https://www.pexels.com/photo/curved-glass-facade-reflecting-urban-scene-38247895/",
+        "creator": "Magda Ehlers",
+        "creatorUrl": "https://www.pexels.com/@magda-ehlers-pexels/",
+        "query": "hand-picked: Modern curved glass facade reflecting an urban scene",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/banner.jpg"
+      },
+      "it-consultancy-services": {
+        "provider": "Pexels",
+        "id": 36765718,
+        "page": "https://www.pexels.com/photo/business-meeting-in-modern-office-lounge-36765718/",
+        "creator": "Vitaly Gariev",
+        "creatorUrl": "https://www.pexels.com/@silverkblack/",
+        "query": "hand-picked: Professionals discussing business strategy in an office",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/it-consultancy-services.jpg"
+      },
+      "non-it-consultancy-services": {
+        "provider": "Pexels",
+        "id": 6285120,
+        "page": "https://www.pexels.com/photo/businessman-presenting-on-a-flipchart-in-an-office-6285120/",
+        "creator": "Gustavo Fring",
+        "creatorUrl": "https://www.pexels.com/@gustavo-fring/",
+        "query": "hand-picked: Businessman presenting on a flip chart",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/non-it-consultancy-services.jpg"
+      },
+      "cloud-migration-and-management-services": {
+        "provider": "Pexels",
+        "id": 37605910,
+        "page": "https://www.pexels.com/photo/server-rack-in-modern-data-center-37605910/",
+        "creator": "panumas nikhomkhai",
+        "creatorUrl": "https://www.pexels.com/@cookiecutter/",
+        "query": "hand-picked: Server equipment in a modern data center",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/cloud-migration-and-management-services.jpg"
+      },
+      "software-development-and-integration-services": {
+        "provider": "Pexels",
+        "id": 4974915,
+        "page": "https://www.pexels.com/photo/man-sitting-in-front-of-three-computers-4974915/",
+        "creator": "olia danilevich",
+        "creatorUrl": "https://www.pexels.com/@olia-danilevich/",
+        "query": "hand-picked: Developer working with two laptops and a desktop monitor",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/software-development-and-integration-services.jpg"
+      },
+      "data-analytics-and-business-intelligence": {
+        "provider": "Pexels",
+        "id": 38808473,
+        "page": "https://www.pexels.com/photo/dynamic-financial-data-visualization-and-analysis-38808473/",
+        "creator": "Rafael Minguet Delgado",
+        "creatorUrl": "https://www.pexels.com/@thales13/",
+        "query": "hand-picked: Colorful data visualization with financial charts",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/data-analytics-and-business-intelligence.jpg"
+      },
+      "cybersecurity-services": {
+        "provider": "Pexels",
+        "id": 37709121,
+        "page": "https://www.pexels.com/photo/futuristic-tech-interface-on-a-laptop-keypad-37709121/",
+        "creator": "Rafael Minguet Delgado",
+        "creatorUrl": "https://www.pexels.com/@thales13/",
+        "query": "hand-picked: Glowing laptop keypad with a digital interface",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/cybersecurity-services.jpg"
+      },
+      "cloud-native-application-development": {
+        "provider": "Pexels",
+        "id": 36706460,
+        "page": "https://www.pexels.com/photo/developer-working-on-code-in-a-modern-office-36706460/",
+        "creator": "Zayed Hossain",
+        "creatorUrl": "https://www.pexels.com/@zayed-hossain-52728970/",
+        "query": "hand-picked: Developer coding on dual monitors in a modern office",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/cloud-native-application-development.jpg"
+      },
+      "it-infrastructure-and-support-services": {
+        "provider": "Pexels",
+        "id": 6466143,
+        "page": "https://www.pexels.com/photo/close-up-photo-of-ethernet-cables-on-network-switch-6466143/",
+        "creator": "Sergei Starostin",
+        "creatorUrl": "https://www.pexels.com/@sejio402/",
+        "query": "hand-picked: Ethernet cables on a network switch in a data center",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/it-infrastructure-and-support-services.jpg"
+      },
+      "cloud-cost-management-and-optimization": {
+        "provider": "Pexels",
+        "id": 38933571,
+        "page": "https://www.pexels.com/photo/vibrant-financial-data-visualization-chart-38933571/",
+        "creator": "Rafael Minguet Delgado",
+        "creatorUrl": "https://www.pexels.com/@thales13/",
+        "query": "hand-picked: Bar chart of financial data on a dark background",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/cloud-cost-management-and-optimization.jpg"
+      },
+      "devops-and-automation-consulting": {
+        "provider": "Pexels",
+        "id": 10845119,
+        "page": "https://www.pexels.com/photo/close-up-of-code-on-a-screen-10845119/",
+        "creator": "Abdul Kayum",
+        "creatorUrl": "https://www.pexels.com/@abdulkayum97/",
+        "query": "hand-picked: Colorful source code on a monitor",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/devops-and-automation-consulting.jpg"
+      },
+      "industry-integrated-ai-digital-transformation-training-program": {
+        "provider": "Pexels",
+        "id": 3861951,
+        "page": "https://www.pexels.com/photo/female-software-engineer-coding-on-computer-3861951/",
+        "creator": "ThisIsEngineering",
+        "creatorUrl": "https://www.pexels.com/@thisisengineering/",
+        "query": "hand-picked: Engineer working on code in a contemporary office",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/industry-integrated-ai-digital-transformation-training-program.jpg"
+      },
+      "project-consulting": {
+        "provider": "Pexels",
+        "id": 36765732,
+        "page": "https://www.pexels.com/photo/professional-business-meeting-in-modern-office-36765732/",
+        "creator": "Vitaly Gariev",
+        "creatorUrl": "https://www.pexels.com/@silverkblack/",
+        "query": "hand-picked: Professionals in a business meeting in a modern office",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/project-consulting.jpg"
+      },
+      "project-product": {
+        "provider": "Pexels",
+        "id": 7181112,
+        "page": "https://www.pexels.com/photo/colleagues-brainstorming-with-a-whiteboard-7181112/",
+        "creator": "Thirdman",
+        "creatorUrl": "https://www.pexels.com/@thirdman/",
+        "query": "hand-picked: Colleagues designing a product prototype on a whiteboard",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/project-product.jpg"
+      },
+      "post-cloud": {
+        "provider": "Pexels",
+        "id": 4508751,
+        "page": "https://www.pexels.com/photo/server-racks-on-data-center-4508751/",
+        "creator": "Brett Sayles",
+        "creatorUrl": "https://www.pexels.com/@brett-sayles/",
+        "query": "hand-picked: Data center corridor with server racks",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/post-cloud.jpg"
+      },
+      "post-analytics": {
+        "provider": "Pexels",
+        "id": 36950633,
+        "page": "https://www.pexels.com/photo/analyst-using-tablet-for-data-visualization-36950633/",
+        "creator": "Jakub Zerdzicki",
+        "creatorUrl": "https://www.pexels.com/@jakubzerdzicki/",
+        "query": "hand-picked: Analyst reviewing a data chart on a tablet",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/post-analytics.jpg"
+      },
+      "post-security": {
+        "provider": "Pexels",
+        "id": 38482451,
+        "page": "https://www.pexels.com/photo/wooden-blocks-spelling-cyber-security-concept-38482451/",
+        "creator": "Ann H",
+        "creatorUrl": "https://www.pexels.com/@ann-h-45017/",
+        "query": "hand-picked: Wooden blocks spelling CYBER SECURITY",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "photo",
+        "type": "photo",
+        "files": "/media/photos/post-security.jpg"
+      },
+      "hero-2": {
+        "provider": "Pexels",
+        "id": 8632602,
+        "page": "https://www.pexels.com/video/people-programming-on-a-computer-8632602/",
+        "creator": "Kampus Production",
+        "creatorUrl": "https://www.pexels.com/@kampus/",
+        "query": "hand-picked: Team of professionals discussing code on a screen in an office",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "video",
+        "type": "video",
+        "files": "/media/videos/hero-2.mp4, /media/videos/hero-2.mp4, /media/videos/hero-2-poster.jpg"
+      },
+      "hero-3": {
+        "provider": "Pexels",
+        "id": 8566657,
+        "page": "https://www.pexels.com/video/a-robot-with-a-digital-screen-face-8566657/",
+        "creator": "Kindel Media",
+        "creatorUrl": "https://www.pexels.com/@kindelmedia/",
+        "query": "hand-picked: Futuristic robot against a bokeh backdrop (AI)",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "video",
+        "type": "video",
+        "files": "/media/videos/hero-3.mp4, /media/videos/hero-3.mp4, /media/videos/hero-3-poster.jpg"
+      },
+      "hero-4": {
+        "provider": "Pexels",
+        "id": 3044912,
+        "page": "https://www.pexels.com/video/a-woman-welcomes-and-greet-another-woman-by-extending-her-hand-for-a-handshake-3044912/",
+        "creator": "fauxels",
+        "creatorUrl": "https://www.pexels.com/@fauxels/",
+        "query": "hand-picked: Two professionals greeting in a bright office lobby",
+        "license": "Pexels License (https://www.pexels.com/license/)",
+        "kind": "video",
+        "type": "video",
+        "files": "/media/videos/hero-4.mp4, /media/videos/hero-4.mp4, /media/videos/hero-4-poster.jpg"
+      }
+    }
+  }
+}
