@@ -40,8 +40,8 @@ const legacy = { 'cybersecurity-services': `${U}/2024/10/204.jpg` }; // original
 export const media = {
   // Home hero carousel (Slalom-style rotating video hero). Slot names = scripts/media-manifest.json
   heroSlides: [
-    { clip: v('hero-2'), label: 'Software engineering' },
     { clip: v('hero'), label: 'Cloud & infrastructure' },
+    { clip: v('hero-2'), label: 'Software engineering' },
     { clip: v('hero-4'), label: 'Enterprise consulting' },
     { clip: v('hero-3'), label: 'AI & automation' },
   ],

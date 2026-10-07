@@ -99,8 +99,8 @@ export default function HeroVideo() {
       <div className="absolute inset-0 -z-10 bg-gradient-to-r from-navy-950/85 via-navy-950/45 to-navy-950/10" aria-hidden="true" />
       <div className="absolute inset-x-0 bottom-0 -z-10 h-1/3 bg-gradient-to-t from-navy-950/80 to-transparent" aria-hidden="true" />
 
-      <motion.div style={{ y: textY, opacity: fade }} className="wrap flex flex-1 flex-col justify-center pb-32 pt-36 md:pb-28 md:pt-44">
-        <AnimatedText as="h1" immediate delay={1.5} stagger={0.18} lines={['Innovation', 'Transformation', 'Excellence']} className="t-display" />
+      <motion.div style={{ y: textY, opacity: fade }} className="flex flex-1 flex-col items-start justify-end px-5 pb-24 pt-32 text-left sm:px-8 md:px-10 md:pb-10 md:pt-40">
+        <AnimatedText as="h1" immediate delay={1.5} stagger={0.18} lines={['Innovation', 'Transformation', 'Excellence']} className="t-display !text-[clamp(2.025rem,.9rem+4.95vw,5.55rem)]" />
         <motion.p {...up(2.2)} className="t-lead mt-8 max-w-xl text-slate-200">
           Your trusted partner in technology and business consulting, delivering next-generation solutions to elevate your success.
         </motion.p>
@@ -113,7 +113,7 @@ export default function HeroVideo() {
 
       {slidesControls}
       <motion.a href="#intro" initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 3.1, duration: 0.8 }} aria-label="Scroll to content"
-        className="absolute bottom-8 left-[var(--gutter)] flex items-center gap-4 font-display text-[.7rem] font-semibold uppercase tracking-[.2em] text-white/75 hover:text-white">
+        className="absolute bottom-8 left-1/2 hidden -translate-x-1/2 items-center gap-4 md:flex font-display text-[.7rem] font-semibold uppercase tracking-[.2em] text-white/75 hover:text-white">
         <span className="relative block h-12 w-px overflow-hidden bg-white/25" aria-hidden="true"><span className="absolute inset-0 bg-white" style={{ animation: 'scroll-cue 2.2s var(--ease) infinite' }} /></span>
         Scroll
       </motion.a>
